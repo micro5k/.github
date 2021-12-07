@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: none
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileType: OTHER
+
+* text=auto
+
+*.gitattributes text eol=lf
+*.gitignore     text eol=lf
+*.gitmodules    text eol=lf
+
+*.yml           text eol=lf
+
+*.rst           text eol=lf
+*.md            text eol=lf
+*.txt           text eol=lf
+
+*.bat           text eol=crlf
+
+*.exe           binary
+*.bin           binary
+*.apk           binary
+*.jar           binary
+*.gz            binary
+*.png           binary
+*.jpg           binary
