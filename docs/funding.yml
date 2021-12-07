@@ -1,5 +1,9 @@
-# These are supported funding model platforms
+---
+# SPDX-FileCopyrightText: none
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileType: OTHER
 
-liberapay: microg-by-ale5000
-issuehunt: micro5k
-custom: ['https://www.bountysource.com/teams/micro5k']
+# These are the supported funding platforms for this proejct:
+liberapay: "microg-by-ale5000"
+issuehunt: "micro5k"
+custom: ["https://www.bountysource.com/teams/micro5k"]
