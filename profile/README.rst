@@ -1,0 +1,13 @@
+..
+   SPDX-FileCopyrightText: (c) 2016-2019, 2021 ale5000
+   SPDX-License-Identifier: GPL-3.0-or-later
+   SPDX-FileType: DOCUMENTATION
+
+*******************************
+microG related stuff by ale5000
+*******************************
+
+| Hi,
+| I'm `ale5000 <https://github.com/ale5000-git>`_.
+| 
+| This is the organization the include all projects related to my *microG unofficial installer*.
