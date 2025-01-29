@@ -10,4 +10,4 @@ microG related stuff by ale5000
 | Hi,
 | I'm `ale5000 <https://github.com/ale5000-git>`_.
 | 
-| This is the organization the include all projects related to my *microG unofficial installer*.
+| This is the organization that include all projects related to my *microG unofficial installer*.
