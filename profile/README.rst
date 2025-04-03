@@ -11,3 +11,5 @@ microG related stuff by ale5000
 | I'm `ale5000 <https://github.com/ale5000-git>`_.
 | 
 | This is the organization that include all projects related to my *microG unofficial installer*.
+| 
+| microG + ale5000 (a5k) = micro5k
